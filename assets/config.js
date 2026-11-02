@@ -1,8 +1,7 @@
 // Link zum App Store – nur hier ändern.
 // Leer lassen, solange die App noch nicht im App Store ist: Die Website zeigt dann „Bald im App Store“.
 window.STEPISLE = {
-  // Platzhalter: Link aus App Store Connect eintragen, z. B. "https://apps.apple.com/app/id1234567890"
-  appStoreUrl: "",
+  appStoreUrl: "https://apps.apple.com/de/app/stepisle/id6825102984",
 };
 
 // Setzt den Link ein. Ohne Link bleibt der Platzhalter aus dem HTML stehen.
